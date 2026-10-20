@@ -113,8 +113,6 @@ CineMatch uses the MovieLens dataset, which contains movie metadata and user rat
 CineMatch demonstrates how machine learning, data processing, APIs, and database management can be combined to build an interactive movie recommendation application. It provides practical experience in recommendation systems and Python application development.
 
 
-## 📸 Project Screenshots
-
 
 ## 📸 Project Screenshots
 
