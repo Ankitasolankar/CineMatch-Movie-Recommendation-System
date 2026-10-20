@@ -115,11 +115,15 @@ CineMatch demonstrates how machine learning, data processing, APIs, and database
 
 ## 📸 Project Screenshots
 
+
+## 📸 Project Screenshots
+
 ### Home Page
-![CineMatch Home Page](C:\Users\JS COMPUTERS\Pictures\Screenshots\Screenshot (8).png)
+![CineMatch Home Page](screenshots/home.png)
 
 ### Movie Recommendations
-![Movie Recommendations](C:\Users\JS COMPUTERS\Pictures\Screenshots\Screenshot (9).png)
+![Movie Recommendations](screenshots/recommendations.png)
 
 ### Analytics Dashboard
-![Analytics Dashboard](C:\Users\JS COMPUTERS\Pictures\Screenshots\Screenshot (10).png)
+![Analytics Dashboard](screenshots/analytics.png)
+
